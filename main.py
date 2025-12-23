@@ -75,7 +75,7 @@ pipeline = {
 }
 
 joblib.dump(pipeline, "rain_forecast_V2.joblib")
-print("Forecasting pipeline saved as rain_forecast_pipeline.joblib")
+print("Forecasting pipeline saved as rain_forecast_V2.joblib")
 
 # ------------------------------
 # 6. EVALUATION
