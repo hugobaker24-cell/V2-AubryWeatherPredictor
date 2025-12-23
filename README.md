@@ -22,7 +22,7 @@ Algorithm: Random Forest Classifier
 
 **How to use**
 1. Install Dependencies
-   pip install pandas scikit-learn joblib
+  pip install -r requirements.txt
 2. Run the latest model
    python RunSavedModel.py
 
